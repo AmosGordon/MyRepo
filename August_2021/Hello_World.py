@@ -1,6 +1,5 @@
 import pygame
 from time import sleep
-from random import randrange, randint
 
 color_list = [(255, 0, 0), (255, 128, 0), (255, 255, 0), (128, 255, 0), (0, 255, 0), (0, 255, 128), (0, 255, 255),
               (0, 128, 255), (0, 0, 255), (127, 0, 255), (255, 0, 255), (255, 0, 127)]

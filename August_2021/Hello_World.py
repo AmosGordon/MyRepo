@@ -10,8 +10,7 @@ font = pygame.font.SysFont('Comic Sans', FONT_SIZE)
 
 WIDTH, HEIGHT = 900, 700
 window = pygame.display.set_mode((WIDTH, HEIGHT))
-velocity = .1
-background = pygame.rect.Rect(0, 0, WIDTH, HEIGHT)
+background = pygame.rect.Rect(0, 0, WIDTH, HEIGHT) 
 
 sentence = 'Hello, World!'
 broken_list = list(sentence)
@@ -93,3 +92,4 @@ while running:
                     break
                 moving_list[i].change_y()
             update_display()
+

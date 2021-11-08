@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239ceb7a-9fa7-437a-9fda-390eab8b2900" name="Changes" comment="Hello_py">
-      <change beforePath="$PROJECT_DIR$/August_2021/Hello_World.py" beforeDir="false" afterPath="$PROJECT_DIR$/August_2021/Hello_World.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello_Git.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="239ceb7a-9fa7-437a-9fda-390eab8b2900" name="Changes" comment="Hello_py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
